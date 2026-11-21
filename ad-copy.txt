@@ -1,24 +1,28 @@
 PROPOSED GOOGLE SEARCH AD CREATIVE
-Status: Proposed text creative, not a screenshot of an active Google Ads campaign. No ads have been created or served.
+Status: Draft text creative for review; not a screenshot of a live campaign. No ads have been created or served.
 Final URL: https://electrical-services.site/
-Display path: electrical / service
+Display path: electrical / home-service
 
 HEADLINES (RSA options; each within 30 characters)
 Electrical Service Help
-Call About Electrical Work
+Call About Home Repairs
 Talk With a Service Provider
-Home Electrical Project Help
+Home Electrical Help
 Discuss a Repair or Upgrade
 Electrical Help for Your Home
+Residential Electrician Help
+Home Panel & Breaker Repair
+Outlet, Lighting & Wiring
+For Homeowners Only
 
 DESCRIPTIONS (RSA options; each within 90 characters)
-Call to discuss electrical repairs, upgrades, lighting, outlets, or panel concerns.
-Ask about independent service providers and availability for your project area.
-Tell us about your project and ask about local electrical service options.
-Independent providers. Confirm qualifications, insurance, scope, and cost directly.
+Homeowners: discuss repairs, lighting, outlets, panels, wiring, or installation at home.
+Ask about independent residential providers and availability in your local area.
+Residential home service only. Business and commercial work is not offered.
+Confirm provider qualifications, insurance, scope, and price before work begins.
 
 CTA: Call (855) 671-4582
-Call extension / final URL phone: +1 855-671-4582
+Call extension: (855) 671-4582
 
 COMPLIANCE NOTES
-This is a lead-connection service, not an electrical contractor. Providers are independent. Availability and scope vary by location. No claim of guaranteed service, response time, price, licensing, or insurance is made. Homeowners are directed to confirm credentials with their chosen provider.
+This is a lead-connection service, not an electrical contractor. It is for homeowners seeking service at their residence only. No business or commercial service is offered. Providers are independent. Availability and scope vary by location. No claim of guaranteed service, response time, price, licensing, or insurance is made. Homeowners should confirm provider credentials directly.

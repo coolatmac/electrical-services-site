@@ -1,14 +1,18 @@
 PROPOSED PAID SEARCH KEYWORD LIST
-Match types: exact and phrase only; intended for review and later use in the advertiser's own account. No ads have been created or served.
+Match types: exact and phrase only; target residential homeowners seeking electrical service at home.
 
 [electrician near me]
 "electrician near me"
-[electrical repair near me]
-"electrical repair near me"
+[home electrician near me]
+"home electrician near me"
 [residential electrician]
 "residential electrician"
-[electrical service near me]
-"electrical service near me"
+[residential electrical repair]
+"residential electrical repair"
+[electrical repair near me]
+"electrical repair near me"
+[home electrical services]
+"home electrical services"
 [electrical panel repair]
 "electrical panel repair"
 [breaker keeps tripping electrician]
@@ -19,10 +23,8 @@ Match types: exact and phrase only; intended for review and later use in the adv
 "light fixture installation electrician"
 [home electrical wiring repair]
 "home electrical wiring repair"
-[electrical contractor for home project]
-"electrical contractor for home project"
 
 SUGGESTED NEGATIVE KEYWORDS
-jobs, job, career, salary, apprenticeship, course, classes, school, training, diy, how to, tutorial, diagram, pdf, parts, supplies, wholesale, used, commercial electrician jobs
+jobs, job, career, salary, apprenticeship, course, classes, school, training, diy, how to, tutorial, diagram, pdf, parts, supplies, wholesale, commercial, business, office, industrial
 
-Targeting reminder: choose serviceable locations based on the selected offer and confirm provider coverage before enabling any paid campaign. Do not use this list as a claim of coverage in every location.
+Targeting reminder: select only locations where the offer serves homeowners at residential homes. Confirm offer coverage before any campaign is enabled. This list does not claim nationwide provider availability.
